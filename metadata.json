@@ -1,0 +1,6 @@
+{
+  "name": "FinPilot — Personal Finance Dashboard",
+  "description": "Offline-first personal finance dashboard and Python 3.11 Tkinter + Matplotlib desktop suite with Indian currency formatting, analytics, and budget tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
